@@ -36,9 +36,9 @@ const portfolioData = [
   },
   {
     id: 3,
-    name: "Shopping cart design",
+    name: "Portfolio",
     image: ImageFive,
-    link: "",
+    link: "https://github.com/Abhimaurya2526/Portfolio",
   },
 ];
 
